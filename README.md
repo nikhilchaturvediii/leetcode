@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilchaturvediii/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0856-score-of-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhilchaturvediii/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhilchaturvediii/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilchaturvediii/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/nikhilchaturvediii/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nikhilchaturvediii/leetcode/tree/master/1510-stone-game-iv) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilchaturvediii/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
