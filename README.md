@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/nikhilchaturvediii/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0856-score-of-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhilchaturvediii/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhilchaturvediii/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/nikhilchaturvediii/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/nikhilchaturvediii/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/nikhilchaturvediii/leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhilchaturvediii/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/nikhilchaturvediii/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/nikhilchaturvediii/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nikhilchaturvediii/leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhilchaturvediii/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -143,9 +146,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/nikhilchaturvediii/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/nikhilchaturvediii/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
