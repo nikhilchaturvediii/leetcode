@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0856-score-of-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhilchaturvediii/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhilchaturvediii/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhilchaturvediii/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhilchaturvediii/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/nikhilchaturvediii/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
